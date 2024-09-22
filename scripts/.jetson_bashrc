@@ -1,0 +1,5 @@
+alias rc1_123="/home/unitree/UnitreecameraSDK/scripts/restart_camera1_123.sh"
+alias rc2_123="/home/unitree/UnitreecameraSDK/scripts/restart_camera2_123.sh"
+alias rc3_123="/home/unitree/UnitreecameraSDK/scripts/restart_camera3_123.sh"
+alias rc4_123="/home/unitree/UnitreecameraSDK/scripts/restart_camera4_123.sh"
+alias rc5_123="/home/unitree/UnitreecameraSDK/scripts/restart_camera5_123.sh"

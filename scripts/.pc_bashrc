@@ -1,0 +1,9 @@
+alias rc1_123="/home/jetson/CAIR2024/main/scripts/remote_start_camera_1.sh"
+alias rc2_123="/home/jetson/CAIR2024/main/scripts/remote_start_camera_2.sh"
+alias rc3_123="/home/jetson/CAIR2024/main/scripts/remote_start_camera_3.sh"
+alias rc4_123="/home/jetson/CAIR2024/main/scripts/remote_start_camera_4.sh"
+alias rc5_123="/home/jetson/CAIR2024/main/scripts/remote_start_camera_5.sh"
+
+alias ssh13='ssh -Y unitree@192.168.123.13'
+alias ssh14='ssh -Y unitree@192.168.123.14'
+alias ssh15='ssh -Y unitree@192.168.123.15'

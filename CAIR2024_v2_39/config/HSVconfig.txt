@@ -1,0 +1,6 @@
+HLower=5
+HUpper=60
+SLower=0
+SUpper=255
+VLower=0
+VUpper=255

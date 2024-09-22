@@ -1,0 +1,1 @@
+source /home/unitree/UnitreecameraSDK/scripts/.bashrc

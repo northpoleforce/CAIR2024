@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/usr/local/include/opencv4/**",
+                "${workspaceFolder}/include/**",
+                "${workspaceFolder}/CAIR2024_v0/include/**",
+                "~/opencv4/include/opencv4/opencv2/**",
+                "~/software/library_ws/src/opencv_contrib-4.2.0/modules/aruco/include/opencv2/**"
+            ],
+            "defines": [],
+            "cStandard": "c11",
+            "cppStandard": "gnu++11",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
